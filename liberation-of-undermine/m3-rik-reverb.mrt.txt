@@ -1,0 +1,22 @@
+{time:0:25}0:25{spell:466866}|cff6aa84fEchoing Chant|r -{spell:472306}|cffFFFFFFAdd Spawn|r - Guar {spell:197721} 
+{time:0:47}0:47{spell:467044}|cffB65552Faulty Zap|r - Tink {spell:374227}  Laundry {spell:97462} 
+{time:0:50}0:50 - Guar {spell:740} 
+{time:0:54}0:54{spell:466866}|cff6aa84fEchoing Chant|r - Eli {spell:115310} 
+{time:0:57}0:57 - Tink {spell:363534} 
+{time:1:19}1:19{spell:467044}|cffB65552Faulty Zap|r - Keffka {spell:108280}  Cklyde {spell:31821}  Guar {spell:197721}  Elyn {spell:97462} 
+{time:1:45}1:45{spell:467044}|cffB65552Faulty Zap|r -{spell:472306}|cffFFFFFFAdd Spawn|r - Keffka {spell:114049}  Plague {spell:97462} 
+{time:2:01}2:01{spell:464584}|cffFFFFFFSound Cloud|r - Eli {spell:322118} 
+{time:2:05}2:05 - Varl {spell:414660} 
+{time:2:17}2:17 - {everyone}everyone {text}Personals{/text} 
+{time:3:16}3:16{spell:467044}|cffB65552Faulty Zap|r - Tink {spell:374227} 
+{time:3:48}3:48{spell:467044}|cffB65552Faulty Zap|r - Keffka {spell:108280}  Laundry {spell:97462} 
+{time:4:14}4:14{spell:467044}|cffB65552Faulty Zap|r -{spell:472306}|cffFFFFFFAdd Spawn|r - Keffka {spell:114049} 
+{time:4:16}4:16 - Eli {spell:115310} 
+{time:4:29}4:29{spell:464584}|cffFFFFFFSound Cloud|r - Eli {spell:322118} 
+{time:4:33}4:33 - Bonfire {spell:414660} 
+{time:4:45}4:45 - {everyone}everyone {text}Personals{/text} 
+{time:5:44}5:44{spell:467044}|cffB65552Faulty Zap|r - Tink {spell:374227}  Cklyde {spell:31821}  Elyn {spell:97462} 
+{time:5:54}5:54 - Tink {spell:363534} 
+{time:6:16}6:16{spell:467044}|cffB65552Faulty Zap|r - Keffka {spell:108280}  Plague {spell:97462} 
+{time:6:42}6:42{spell:467044}|cffB65552Faulty Zap|r -{spell:472306}|cffFFFFFFAdd Spawn|r - Keffka {spell:114049} 
+{time:7:07}7:07{spell:464584}|cffFFFFFFSound Cloud|r - Eli {spell:322118}  Laundry {spell:97462} 

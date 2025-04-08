@@ -1,0 +1,42 @@
+{time:0:22}0:22{spell:473650}|cffbf5700Scrapbomb|r - {everyone}everyone {text}Personals{/text} 
+{time:0:25}0:25{spell:1213690}|cffc2ca49Molten Phlegm|r - Guar {spell:197721}  Keffka {spell:114049} 
+{time:0:50}0:50 - Guar {spell:740} 
+{time:0:51}0:51 - Tink {spell:374227} 
+{time:0:52}0:52 - Keffka {spell:108280} 
+{time:1:10}1:10 - Eli {spell:322118} 
+{time:1:15}1:15{spell:465872}|cffc2ca49Colossal Clash|r - Cklyde {spell:31821}  Bonfire {spell:414660}  Plague {spell:97462} 
+{time:1:17}1:17 - Guar {spell:197721} 
+{time:1:20}1:20 - Eli {spell:443028} 
+{time:1:25}1:25 - Tink {spell:363534} 
+{time:1:57}1:57{spell:473650}|cffbf5700Scrapbomb|r - {everyone}everyone {text}Personals{/text} 
+{time:2:50}2:50{spell:465872}|cffc2ca49Colossal Clash|r - Keffka {spell:114049}  Varl {spell:414660}  Laundry {spell:97462} 
+{time:2:52}2:52 - Guar {spell:197721} 
+{time:2:55}2:55 - Eli {spell:443028} 
+{time:2:57}2:57 - Tink {spell:374227} 
+{time:3:04}3:04 - Keffka {spell:108280} 
+{time:3:29}3:29 - {everyone}everyone {text}Personals{/text} 
+{time:4:20}4:20 - Eli {spell:322118} 
+{time:4:25}4:25{spell:465872}|cffc2ca49Colossal Clash|r - Cklyde {spell:31821}  Bonfire {spell:414660}  Plague {spell:97462} 
+{time:4:27}4:27 - Guar {spell:197721} 
+{time:4:30}4:30 - Guar {spell:740}  Eli {spell:443028} 
+{time:4:35}4:35 - Tink {spell:363534} 
+{time:5:01}5:01 - {everyone}everyone {text}Personals{/text} 
+{time:5:11}5:11 - Guar {spell:197721} 
+{time:6:00}6:00{spell:465872}|cffc2ca49Colossal Clash|r - Varl {spell:414660}  Laundry {spell:97462} 
+{time:6:01}6:01 - Keffka {spell:114049} 
+{time:6:04}6:04 - Tink {spell:374227} 
+{time:6:05}6:05 - Eli {spell:443028} 
+{time:6:11}6:11 - Guar {spell:197721} 
+{time:6:15}6:15 - Keffka {spell:108280} 
+{time:6:39}6:39{spell:472233}|cff6aa84fBlastburn Roarcannon|r - {everyone}everyone {text}Personals{/text} 
+{time:7:30}7:30 - Eli {spell:322118} 
+{time:7:35}7:35{spell:465872}|cffc2ca49Colossal Clash|r - Cklyde {spell:31821}  Bonfire {spell:414660}  Plague {spell:97462} 
+{time:7:36}7:36 - Guar {spell:197721} 
+{time:7:39}7:39 - Guar {spell:740} 
+{time:7:40}7:40 - Eli {spell:443028} 
+{time:7:45}7:45 - Tink {spell:363534} 
+{time:8:14}8:14{spell:472233}|cff6aa84fBlastburn Roarcannon|r - {everyone}everyone {text}Personals{/text} 
+{time:9:10}9:10{spell:465872}|cffc2ca49Colossal Clash|r - Guar {spell:197721}  Keffka {spell:114049}  Varl {spell:414660} 
+{time:9:15}9:15 - Tink {spell:374227}  Eli {spell:443028} 
+{time:9:24}9:24 - Keffka {spell:108280} 
+{time:9:37}9:37 - Eli {spell:322118} 
