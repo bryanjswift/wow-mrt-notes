@@ -1,9 +1,7 @@
-{time:0:25}0:25{spell:466866}|cff6aa84fEchoing Chant|r -{spell:472306}|cffFFFFFFAdd Spawn|r - Guarzoo {spell:197721}
 {time:0:47}0:47{spell:467044}|cffB65552Faulty Zap|r - Dragonwi {spell:374227}  Laundryslayr {spell:97462}
-{time:0:50}0:50 - Guarzoo {spell:740}
 {time:0:54}0:54{spell:466866}|cff6aa84fEchoing Chant|r - Electroo {spell:115310}
 {time:0:57}0:57 - Dragonwi {spell:363534}
-{time:1:19}1:19{spell:467044}|cffB65552Faulty Zap|r - Keffka {spell:108280}  Cklyde {spell:31821}  Guarzoo {spell:197721}  Elyn {spell:97462}
+{time:1:19}1:19{spell:467044}|cffB65552Faulty Zap|r - Keffka {spell:108280}  Cklyde {spell:31821}  Elyn {spell:97462}
 {time:1:45}1:45{spell:467044}|cffB65552Faulty Zap|r -{spell:472306}|cffFFFFFFAdd Spawn|r - Keffka {spell:114049}  Plagueniss {spell:97462}
 {time:2:01}2:01{spell:464584}|cffFFFFFFSound Cloud|r - Electroo {spell:322118}
 {time:2:05}2:05 - Varl {spell:414660}
