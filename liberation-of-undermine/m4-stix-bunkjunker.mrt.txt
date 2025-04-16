@@ -1,0 +1,24 @@
+{time:0:22}0:22 - Plagueniss {spell:97462} 
+{time:0:23}0:23{spell:464399}|cffB65552Electromagnetic Sorting|r - Keffka {spell:108280} 
+{time:0:25}0:25 - Dragonwi {spell:363534} 
+{time:0:38}0:38 - Guarzoo {spell:197721} 
+{time:1:02}1:02{spell:464149}|cffB65552Incinerator|r - Guarzoo {spell:740} 
+{time:1:08}1:08{spell:467117}|cff6aa84fOverdrive|r - Electroo {spell:322118} 
+{time:1:30}1:30{spell:464149}|cffB65552Incinerator|r - Guarzoo {spell:197721} 
+{time:1:41}1:41 - Keffka {spell:114049}  Laundry {spell:97462} 
+{time:1:59}1:59 - Electroo {spell:115310} 
+{time:2:34}2:34{spell:464399}|cffB65552Electromagnetic Sorting|r - Keffka {spell:108280} 
+{time:2:47}2:47{spell:464149}|cffB65552Incinerator|r - Guarzoo {spell:197721} 
+{time:3:13}3:13{spell:464149}|cffB65552Incinerator|r - Electroo {spell:322118} 
+{time:3:24}3:24 - Plagueniss {spell:97462} 
+{time:4:05}4:05{spell:464149}|cffB65552Incinerator|r - Guarzoo {spell:197721} 
+{time:4:15}4:15 - Keffka {spell:114049} 
+{time:4:18}4:18 - Dragonwi {spell:363534} 
+{time:4:31}4:31{spell:464149}|cffB65552Incinerator|r - Guarzoo {spell:740} 
+{time:4:57}4:57{spell:464149}|cffB65552Incinerator|r - Guarzoo {spell:197721} 
+{time:5:06}5:06 - Laundry {spell:97462} 
+{time:5:07}5:07{spell:464399}|cffB65552Electromagnetic Sorting|r - Keffka {spell:108280} 
+{time:5:26}5:26 - Electroo {spell:115310} 
+{time:5:49}5:49{spell:464149}|cffB65552Incinerator|r - Electroo {spell:322118} 
+{time:6:15}6:15{spell:464149}|cffB65552Incinerator|r - Guarzoo {spell:197721} 
+{time:6:48}6:48 - Keffka {spell:114049}  Plagueniss {spell:97462} 
