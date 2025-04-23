@@ -1,45 +1,34 @@
-{H}{time:0:25}0:25{spell:1213690}|cffc2ca49Molten Phlegm|r - Guarzoo {spell:197721}  Keffka {spell:114049}{/H}
-{H}{time:0:50}0:50 - Guarzoo {spell:740}{/H}
-{H}{time:0:51}0:51 - Dragonwi {spell:374227}{/H}
-{H}{time:0:52}0:52 - Keffka {spell:108280}{/H}
-{H}{time:1:10}1:10 - Electroo {spell:322118}{/H}
-{H}{time:1:15}1:15{spell:465872}|cffc2ca49Colossal Clash|r - Cklyde {spell:31821}{/H}
-{c:Mage}{time:1:15}1:15{spell:465872}|cffc2ca49Colossal Clash|r - Bonfire {spell:414660}{/c}
-{c:Warrior}{time:1:15}1:15{spell:465872}|cffc2ca49Colossal Clash|r - Plagueniss {spell:97462}{/c}
-{H}{time:1:17}1:17 - Guarzoo {spell:197721}{/H}
-{H}{time:1:25}1:25 - Dragonwi {spell:363534}{/H}
-{H}{time:2:50}2:50{spell:465872}|cffc2ca49Colossal Clash|r - Keffka {spell:114049}{/H}
-{c:Mage}{time:2:50}2:50{spell:465872}|cffc2ca49Colossal Clash|r - Varl {spell:414660}{/c}
-{c:Warrior}{time:2:50}2:50{spell:465872}|cffc2ca49Colossal Clash|r - Laundryslayr {spell:97462}{/c}
-{H}{time:2:52}2:52 - Guarzoo {spell:197721}{/H}
-{H}{time:2:55}2:55 - Electroo {spell:115310}{/H}
-{H}{time:2:57}2:57 - Dragonwi {spell:374227}{/H}
-{H}{time:3:04}3:04 - Keffka {spell:108280}{/H}
-{H}{time:4:20}4:20 - Electroo {spell:322118}{/H}
-{H}{time:4:25}4:25{spell:465872}|cffc2ca49Colossal Clash|r - Cklyde {spell:31821}{/H}
-{c:Mage}{time:4:25}4:25{spell:465872}|cffc2ca49Colossal Clash|r - Bonfire {spell:414660}{/c}
-{c:Warrior}{time:4:25}4:25{spell:465872}|cffc2ca49Colossal Clash|r - Plagueniss {spell:97462}{/c}
-{H}{time:4:27}4:27 - Guarzoo {spell:197721}{/H}
-{H}{time:4:30}4:30 - Guarzoo {spell:740}{/H}
-{H}{time:4:35}4:35 - Dragonwi {spell:363534}{/H}
-{H}{time:5:11}5:11{spell:465872}|cffc2ca49Colossal Clash|r - Guarzoo {spell:197721}{/H}
-{c:Mage}{time:5:11}5:11{spell:465872}|cffc2ca49Colossal Clash|r - Varl {spell:414660}{/c}
-{c:Warrior}{time:5:11}5:11{spell:465872}|cffc2ca49Colossal Clash|r - Laundryslayr {spell:97462}{/c}
-{H}{time:6:01}6:01 - Keffka {spell:114049}{/H}
-{H}{time:6:04}6:04 - Dragonwi {spell:374227}{/H}
-{H}{time:6:05}6:05 - Electroo {spell:115310}{/H}
-{H}{time:6:11}6:11 - Guarzoo {spell:197721}{/H}
-{H}{time:6:15}6:15 - Keffka {spell:108280}{/H}
-{H}{time:7:30}7:30 - Electroo {spell:322118}{/H}
-{H}{time:7:35}7:35{spell:465872}|cffc2ca49Colossal Clash|r - Cklyde {spell:31821}{/H}
-{c:Mage}{time:7:35}7:35{spell:465872}|cffc2ca49Colossal Clash|r - Bonfire {spell:414660}{/c}
-{c:Warrior}{time:7:35}7:35{spell:465872}|cffc2ca49Colossal Clash|r - Plagueniss {spell:97462}{/c}
-{H}{time:7:36}7:36 - Guarzoo {spell:197721}{/H}
-{H}{time:7:39}7:39 - Guarzoo {spell:740}{/H}
-{H}{time:7:45}7:45 - Dragonwi {spell:363534}{/H}
-{H}{time:9:10}9:10{spell:465872}|cffc2ca49Colossal Clash|r - Guarzoo {spell:197721}{/H}
-{c:Mage}{time:9:10}9:10{spell:465872}|cffc2ca49Colossal Clash|r - Varl {spell:414660}{/c}
-{c:Warrior}{time:9:10}9:10{spell:465872}|cffc2ca49Colossal Clash|r - Laundryslayr {spell:97462}{/c}
-{H}{time:9:15}9:15 - Dragonwi {spell:374227}  Electroo {spell:115310}{/H}
-{H}{time:9:24}9:24 - Keffka {spell:108280}{/H}
-{H}{time:9:37}9:37 - Electroo {spell:322118}{/H}
+{time:0:25}0:25 - Guarzoo {spell:197721}  Keffka {spell:114049}
+{time:0:50}0:50 - Guarzoo {spell:740}
+{time:0:51}0:51 - Dragonwi {spell:374227}
+{time:0:52}0:52 - Keffka {spell:108280}
+{time:1:10}1:10 - Electroo {spell:322118}
+{time:1:15}1:15 - Bonfire {spell:414660} Plagueniss {spell:97462}
+{time:1:17}1:17 - Guarzoo {spell:197721}
+{time:1:25}1:25 - Dragonwi {spell:363534}
+{time:2:50}2:50 - Keffka {spell:114049}
+{time:2:50}2:50 - Vynmage {spell:414660} Laundryslayr {spell:97462}
+{time:2:52}2:52 - Guarzoo {spell:197721}
+{time:2:55}2:55 - Electroo {spell:115310}
+{time:2:57}2:57 - Dragonwi {spell:374227}
+{time:3:04}3:04 - Keffka {spell:108280}
+{time:4:20}4:20 - Electroo {spell:322118}
+{time:4:25}4:25 - Bonfire {spell:414660} Plagueniss {spell:97462}
+{time:4:27}4:27 - Guarzoo {spell:197721}
+{time:4:30}4:30 - Guarzoo {spell:740}
+{time:4:35}4:35 - Dragonwi {spell:363534}
+{time:5:11}5:11 - Guarzoo {spell:197721} Vynmage {spell:414660} Laundryslayr {spell:97462}
+{time:6:01}6:01 - Keffka {spell:114049}
+{time:6:04}6:04 - Dragonwi {spell:374227}
+{time:6:05}6:05 - Electroo {spell:115310}
+{time:6:11}6:11 - Guarzoo {spell:197721}
+{time:6:15}6:15 - Keffka {spell:108280}
+{time:7:30}7:30 - Electroo {spell:322118}
+{time:7:35}7:35 - Bonfire {spell:414660} Plagueniss {spell:97462}
+{time:7:36}7:36 - Guarzoo {spell:197721}
+{time:7:39}7:39 - Guarzoo {spell:740}
+{time:7:45}7:45 - Dragonwi {spell:363534}
+{time:9:10}9:10 - Guarzoo {spell:197721} Vynmage {spell:414660} Laundryslayr {spell:97462}
+{time:9:15}9:15 - Dragonwi {spell:374227}  Electroo {spell:115310}
+{time:9:24}9:24 - Keffka {spell:108280}
+{time:9:37}9:37 - Electroo {spell:322118}
